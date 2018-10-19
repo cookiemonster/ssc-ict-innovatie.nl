@@ -2,7 +2,7 @@
 ## Team
 * [Pepijn van der Spek](https://www.linkedin.com/in/pepijnvanderspek/)
 * [Ramon Fiedler](https://www.linkedin.com/in/ramon-fiedler-91225613/)
-* [Victor Gevers]()
+* [Victor Gevers](https://www.linkedin.com/in/vgevers/)
 
 ## Projecten 2018
  * [On-The-Move](https://on-the-move.ml)
