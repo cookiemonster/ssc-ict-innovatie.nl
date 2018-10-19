@@ -11,8 +11,8 @@
 
 ## Agenda 2018
 
-* 22-02: Innovatie Booster: IoT (Smartbuilding), DGOO datalake, Augmented reality (Hololens)
-* 11-04: [Girlsday](https://www.vhto.nl/projecten/girlsday/over-girlsday/girlsday-2018/deelnemers-girlsday-2018/)
+* 22-02: [Innovatie Booster](https://www.ssc-ictspecials.nl/ictactueel/2018/02/innovatiebooster-van-een-abstract-idee-naar-een-prototype): IoT (Smartbuilding), DGOO datalake, Augmented reality (Hololens)
+* 11-04: [Girlsday](https://www.vhto.nl/projecten/girlsday/over-girlsday/girlsday-2018/deelnemers-girlsday-2018/) 2018
 * 26-06: Innovation Booster: [Hackathon](https://www.ssc-ict.nl/actueel/nieuws/2018/codes-ontwikkelen.aspx)
 * 16-10: SSC-ICT Klantendag: Security en Innovatie (lanchering van de wachtwoordenkluis)[https://www.ssc-ict.nl/keepass/]
 * 22-10/25-10: Rijksgithub [tweedaagse basis training](https://www.pleio.nl/events/event/view/59566151/rijksgithub-tweedaagse-github-basis-training)
