@@ -4,6 +4,9 @@
 * [Ramon Fiedler](https://www.linkedin.com/in/ramon-fiedler-91225613/)
 * [Victor Gevers](https://www.linkedin.com/in/vgevers/)
 
+## Thema's
+We werken aan de volgende innovatie [thema's](https://ssc-ict-innovatie.nl/2018/innovatieagenda_2018.png).
+
 ## Projecten 2018
  * [Keteninformatie](https://rijksgithub.nl/SSC-ICT-Innovatie/Keteninformatie)
  * [On-The-Move](https://on-the-move.ml)
