@@ -10,6 +10,21 @@
  * [Rijksgithub](https://rijksgithub.nl)
 
 ## Agenda 2018
-* 22-10/25-10: Rijksgithub [tweedaagse basis training](https://www.pleio.nl/events/event/view/59566151/rijksgithub-tweedaagse-github-basis-training)
-* 
 
+* 22-02: Innovatie Booster: IoT (Smartbuilding), DGOO datalake, Augmented reality (Hololens)
+* 11-04: [Girlsday](https://www.vhto.nl/projecten/girlsday/over-girlsday/girlsday-2018/deelnemers-girlsday-2018/)
+* 26-06: Innovation Booster: [Hackathon](https://www.ssc-ict.nl/actueel/nieuws/2018/codes-ontwikkelen.aspx)
+* 16-10: SSC-ICT Klantendag: Security en Innovatie (lanchering van de wachtwoordenkluis)[https://www.ssc-ict.nl/keepass/]
+* 22-10/25-10: Rijksgithub [tweedaagse basis training](https://www.pleio.nl/events/event/view/59566151/rijksgithub-tweedaagse-github-basis-training)
+* 31-10: Innovation Booster : Speech To Text (transcriberen) 
+* 01-10: UBR: [Rijkconsultatiedag.nl](https://rijksgithub.nl/BZK-UBR/sp_rcd)
+
+
+
+
+
+
+
+
+ 
+	 
