@@ -26,7 +26,7 @@
 * 16-10: SSC-ICT Klantendag: Security en Innovatie: [lanchering van de wachtwoordenkluis](https://www.ssc-ict.nl/keepass/)
 * 22-10/25-10: Rijksgithub [tweedaagse basis training](https://www.pleio.nl/events/event/view/59566151/rijksgithub-tweedaagse-github-basis-training)
 * 31-10: Innovation Booster : Speech To Text (transcriberen) 
-* 01-10: UBR: [Rijkconsultatiedag.nl](https://rijksgithub.nl/BZK-UBR/sp_rcd)
+* 01-11: UBR: [Rijkconsultatiedag.nl](https://rijksgithub.nl/BZK-UBR/sp_rcd)
 
 
 
