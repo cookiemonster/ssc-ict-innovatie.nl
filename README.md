@@ -5,7 +5,7 @@
 * [Victor Gevers](https://www.linkedin.com/in/vgevers/)
 
 ## Projecten 2018
- * Keteninformatie
+ * [Keteninformatie](https://rijksgithub.nl/SSC-ICT-Innovatie/Keteninformatie)
  * [On-The-Move](https://on-the-move.ml)
  * [Rijkschat](https://rijkchat.nl)
  * [Rijksgithub](https://rijksgithub.nl)
@@ -14,7 +14,7 @@
 ## Samenwerking met
 
 * BZK/VNG: Technische realisatie in het project Keteninformatie
-* EZK: Adviserende rol in de tot standkoming van het Digital Trust Platform
+* EZK: Adviserende rol in de tot standkoming van het [Digital Trust Platform](https://www.digitaltrustcenter.nl/actueel)
 * UBR: Deelname en technische realisatie van de [Rijkconsultatiedag.nl](https://Rijkconsultatiedag.nl)
 
 
