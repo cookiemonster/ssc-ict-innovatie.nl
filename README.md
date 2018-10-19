@@ -5,9 +5,18 @@
 * [Victor Gevers](https://www.linkedin.com/in/vgevers/)
 
 ## Projecten 2018
+ * Keteninformatie
  * [On-The-Move](https://on-the-move.ml)
  * [Rijkschat](https://rijkchat.nl)
  * [Rijksgithub](https://rijksgithub.nl)
+ * Smartbuilding programma
+ 
+## Samenwerking met
+
+* BZK/VNG: Technische realisatie in het project Keteninformatie
+* EZK: Adviserende rol in de tot standkoming van het Digital Trust Platform
+* UBR: Technische realisatie van de Rijksconsultatiedag.nl
+
 
 ## Agenda 2018
 
