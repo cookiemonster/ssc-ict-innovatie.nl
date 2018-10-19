@@ -13,7 +13,7 @@
  
 ## Samenwerking met
 
-* BZK/VNG: Technische realisatie in het project Keteninformatie[https://rijksgithub.nl/SSC-ICT-Innovatie/Keteninformatie]
+* BZK/VNG: Technische realisatie in het project [Keteninformatie](https://rijksgithub.nl/SSC-ICT-Innovatie/Keteninformatie)
 * EZK: Adviserende rol in de tot standkoming van het [Digital Trust Platform](https://www.digitaltrustcenter.nl/actueel)
 * UBR: Deelname en technische realisatie van de [Rijkconsultatiedag.nl](https://Rijkconsultatiedag.nl)
 
