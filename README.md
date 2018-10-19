@@ -15,7 +15,7 @@
 
 * BZK/VNG: Technische realisatie in het project Keteninformatie
 * EZK: Adviserende rol in de tot standkoming van het Digital Trust Platform
-* UBR: Technische realisatie van de Rijksconsultatiedag.nl
+* UBR: Deelname en technische realisatie van de [Rijkconsultatiedag.nl](https://Rijkconsultatiedag.nl)
 
 
 ## Agenda 2018
