@@ -1,3 +1,5 @@
+[Home](/) | [Nieuws](/nieuws) | [Projecten](/projecten) | [Over](/over)
+
 
 ## Team
 * [Pepijn van der Spek](https://www.linkedin.com/in/pepijnvanderspek/)
