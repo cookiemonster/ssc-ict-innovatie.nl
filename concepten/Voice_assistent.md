@@ -15,6 +15,9 @@ Met het ontsluiten van de geisoleeerde informatie via een voice assistent bijdra
 
 ## Wat wil de opdrachtegever bereiken met het concept?
  1. Ervaring opdoen met
-  a. Het ontsluiten van informatie uit bestaande bronnen (intranet) voor voice assistenten
-  b. Gebruikers feedback ophalen op deze manier van informatie aanbieden en deze wijze van interactie
+   a. Het ontsluiten van informatie uit bestaande bronnen (intranet) voor voice assistenten
+   b. Gebruikers feedback ophalen op deze manier van informatie aanbieden en deze wijze van interactie
  2. Opdoen van ideeen voor meer usecases.
+
+## Technologie verkenning.
+Op het moment heeft aleen Google Home een ondersteuning voor de Nederlandse taal (in BETA). Daarom gaan we de eerste prototype bouwen boven op [DialogFlow](https://dialogflow.com) en met [Actions](https://developers.google.com/actions/) met dit Smart Home [voorbeeld in Node.js](https://github.com/vgevers/smart-home-nodejs)
