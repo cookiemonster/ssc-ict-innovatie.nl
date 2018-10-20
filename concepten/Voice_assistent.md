@@ -9,3 +9,12 @@ Dat heeft twee problemen:
 Daarnaast worden vanuit veel invalshoeken voice assistenten gezien als volgende interactie met gebruikers. Goed om op een niet al te complexe manier hier mee te gaan experimenteren om ervaring op te doen bij het maken en de interactie met de gebruikers.
 
 De opdrachtgever geeft deze [video](https://youtu.be/ViB3XhsTLuo) als voorbeeld voor een concept.
+
+## Hypothese
+Met het ontsluiten van de geisoleeerde informatie via een voice assistent bijdragen aan een nieuwe gebruikerservaring.
+
+## Wat wil de opdrachtegever bereiken met het concept?
+ 1. Ervaring opdoen met
+  a. Het ontsluiten van informatie uit bestaande bronnen (intranet) voor voice assistenten
+  b. Gebruikers feedback ophalen op deze manier van informatie aanbieden en deze wijze van interactie
+ 2. Opdoen van ideeen voor meer usecases.
