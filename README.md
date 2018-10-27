@@ -12,7 +12,7 @@ We werken aan de volgende innovatie [thema's](https://ssc-ict-innovatie.nl/2018/
 ## Projecten 2018
  * [Keteninformatie](https://rijksgithub.nl/SSC-ICT-Innovatie/Keteninformatie)
  * [On-The-Move](https://on-the-move.ml)
- * [Rijkschat](https://rijkchat.nl)
+ * [Rijkschat](https://rijkschat.nl)
  * [Rijksgithub](https://rijksgithub.nl)
  * Smartbuilding programma
  
