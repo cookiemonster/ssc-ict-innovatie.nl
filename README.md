@@ -1,4 +1,4 @@
-[Home](/) | [Nieuws](/nieuws) | [Projecten](/projecten) | [Over](/over)
+[Home](/) | [Nieuws](/nieuws/) | [Projecten](/projecten/) | [Over](/over/)
 
 
 ## Team
