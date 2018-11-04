@@ -20,4 +20,9 @@ Met het ontsluiten van de geisoleeerde informatie via een voice assistent bijdra
  2. Opdoen van ideeen voor meer usecases.
 
 ## Technologie verkenning.
-Op het moment heeft aleen Google Home een ondersteuning voor de Nederlandse taal (in BETA). Daarom gaan we de eerste prototype bouwen boven op [DialogFlow](https://dialogflow.com) en met [Actions](https://developers.google.com/actions/) met dit Smart Home [voorbeeld in Node.js](https://github.com/vgevers/smart-home-nodejs)
+
+### oktober 2018
+Op het moment heeft aleen Google Home een ondersteuning voor de Nederlandse taal (in BETA). Daarom gaan we de eerste prototype bouwen boven op [DialogFlow](https://dialogflow.com) en met [Actions](https://developers.google.com/actions/) met dit Smart Home [voorbeeld in Node.js](https://github.com/vgevers/smart-home-nodejs). Het voorbeeld is hier [gebouwd](https://ssc-ict-innovatie.slack.com/messages/CDJA596DQ). 
+
+### november 2018
+Open source project [MyCroft](https://community.mycroft.ai/t/how-to-get-mycroft-to-speak-and-understand-dutch/4963) maakt gebruik van Google services voor een Nederlandse taal ondersteuning. De [On Premise](https://mycroft.ai/enterprise/) Enterprise oplossing heeft nog geen eige ondesteuning voor Nederlandse taal.
