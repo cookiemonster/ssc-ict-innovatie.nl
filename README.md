@@ -33,7 +33,7 @@ We werken aan de volgende innovatie [thema's](https://ssc-ict-innovatie.nl/2018/
 * 16-10: SSC-ICT Klantendag: Security en Innovatie: [lanchering van de wachtwoordenkluis](https://www.ssc-ict.nl/keepass/)
 * 22-10/25-10: Rijksgithub [tweedaagse basis training](https://www.pleio.nl/events/event/view/59566151/rijksgithub-tweedaagse-github-basis-training)
 * 31-10: [Innovation Booster](https://www.pleio.nl/events/event/view/59611211/innovatie-booster-bij-ssc-ict) : Speech To Text (transcriberen) 
-* 01-11: UBR: [Rijkconsultatiedag.nl](https://rijksgithub.nl/BZK-UBR/sp_rcd) | [Hackathon: Match je Rijk](https://pages.rijksgithub.nl/SSC-ICT-Innovatie/RCD-Hackathon/)
+* 01-11: UBR: [Rijkconsultatiedag.nl](https://rijksgithub.nl/BZK-UBR/sp_rcd) | [Hackathon: Match je Rijk](https://pages.rijksgithub.nl/SSC-ICT-Innovatie/RCD-Hackathon/) | [Video impressie](https://www.youtube.com/watch?v=81hzdgz1lrw&t=44s)
 
 
 
